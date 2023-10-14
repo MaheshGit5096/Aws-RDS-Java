@@ -8,7 +8,7 @@
     <body bgcolor="silver">
         <form method="post" action="login.jsp">
             <center>
-            <table border="0" width="30%" cellpadding="3">
+            <table border="0" width="50%" cellpadding="3">
                 <thead>
                     <tr>
                         <th colspan="2">Login Page</th>
